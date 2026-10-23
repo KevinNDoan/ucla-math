@@ -58,3 +58,4 @@ The visual styling follows the UCLA Alumni website: a dark masthead, UCLA Gold a
 - `public/search-index.json`: browser-loaded full-text search index; fetched only when search is used.
 
 This is an independent redesign. UCLA owns the original department content and imagery. It is not an official replacement for the university website.
+# ucla-math
