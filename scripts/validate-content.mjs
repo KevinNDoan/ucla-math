@@ -14,6 +14,7 @@ assert.equal(slugs.size, pages.length, 'Every content route must be unique');
 assert.equal(report.failures.length, 0, 'Resolve or document any import failures');
 let checked = 0;
 for (const page of pages) {
+  assert(!/\u2014/.test(page.title + page.description + page.text), `Disallowed punctuation in ${page.slug}`);
   const $ = load(page.html);
   assert.equal($('script,iframe,object,embed,form').length, 0, `Unsafe imported element in ${page.slug}`);
   $('*').each((_, node) => {

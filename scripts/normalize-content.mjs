@@ -24,7 +24,16 @@ export function normalizeCollection(pages) {
   for (const page of pages) {
     const $ = load(page.html);
     $('*').contents().each((_, node) => {
-      if (node.type === 'text') node.data = cleanPunctuation(node.data);
+      if (node.type === 'text') {
+        const parentTag = node.parent?.name;
+        if (!['code', 'pre', 'math'].includes(parentTag)) {
+          const original = cleanPunctuation(node.data);
+          const isAuthorList = original === original.toUpperCase() && original.includes(',') && /\bAND\b/.test(original) && !/\b(OF|FOR|THE|UNIVERSITY|MATH|SCIENCE)\b/.test(original);
+          node.data = isAuthorList
+            ? original.toLowerCase().replace(/\b[a-z]/g, char => char.toUpperCase()).replace(/\bAnd\b/g, 'and')
+            : readableHeading(original).replace(/\bUniversity of california\b/g, 'University of California').replace(/\blos angeles\b/g, 'Los Angeles');
+        } else node.data = cleanPunctuation(node.data);
+      }
     });
     $('h1,h2,h3,h4,h5,h6,th').each((_, node) => {
       if ($(node).text() === $(node).text().toUpperCase()) {

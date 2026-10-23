@@ -38,7 +38,9 @@ The importer preserves article text, tables, links, lecture abstracts, and conta
 
 ## UCLA visual assets
 
-The visual styling follows the UCLA Alumni website: a dark masthead, UCLA Gold announcement bar, full-width photography, UCLA Blue section panels, and the original Antique Legacy font files. Header and footer branding use UCLA’s original Mathematics department signature images. The favicon and campus, community, and research photographs are original UCLA assets. Source URLs are recorded in `public/brand/ASSET-SOURCES.md`.
+The design keeps the original Antique Legacy typeface and official UCLA Mathematics signatures, with an independent editorial layout informed by Harvard and Stanford. White navigation, restrained color, sentence-case labels, generous spacing, and original UCLA photography carry through the homepage, search, and directory. Source URLs are recorded in `public/brand/ASSET-SOURCES.md`.
+
+Interface writing uses sentence case and avoids em dash punctuation. Icons are reserved for controls and navigation, rather than decorative search-result badges or initials avatars.
 
 ## Search and navigation
 
