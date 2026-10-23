@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+.env*
+.openai/*.tar.gz
+.openai/*.tgz
+content/raw/

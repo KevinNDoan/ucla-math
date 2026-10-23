@@ -1,0 +1,22 @@
+{
+  "importedAt": "2026-10-23T05:09:02.160Z",
+  "source": "https://ww3.math.ucla.edu",
+  "total": 865,
+  "wordpressPages": 99,
+  "newsArticles": 167,
+  "profiles": 280,
+  "directories": 5,
+  "seminars": 31,
+  "categories": {
+    "News": 167,
+    "Research": 18,
+    "About": 28,
+    "Graduate": 12,
+    "Resources": 8,
+    "Undergraduate": 259,
+    "Events": 81,
+    "People": 292
+  },
+  "failures": [],
+  "scope": "All published pages and posts exposed by the public WordPress API, rendered distinguished lecture pages, the people directories and linked department profiles, and seminar schedules linked from the main navigation. Linked PDFs, faculty personal sites, external services, and authenticated intranet resources retain their original URLs. Content is a snapshot; rerun npm run sync:content to refresh."
+}

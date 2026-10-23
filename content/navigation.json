@@ -1,0 +1,577 @@
+[
+  {
+    "label": "Facebook!",
+    "url": "https://www.facebook.com/UCLAmath/",
+    "href": "https://www.facebook.com/UCLAmath/"
+  },
+  {
+    "label": "X",
+    "url": "https://twitter.com/uclamath",
+    "href": "https://twitter.com/uclamath"
+  },
+  {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/school/uclamathematics/",
+    "href": "https://www.linkedin.com/school/uclamathematics/"
+  },
+  {
+    "label": "Youtube",
+    "url": "https://www.youtube.com/channel/UCGJB20xYPDkmUacSz_IzCPw",
+    "href": "https://www.youtube.com/channel/UCGJB20xYPDkmUacSz_IzCPw"
+  },
+  {
+    "label": "UCLA Home",
+    "url": "https://www.ucla.edu/",
+    "href": "https://www.ucla.edu/"
+  },
+  {
+    "label": "Division of Physical Sciences",
+    "url": "https://www.physicalsciences.ucla.edu/",
+    "href": "https://www.physicalsciences.ucla.edu/"
+  },
+  {
+    "label": "Home",
+    "url": "https://ww3.math.ucla.edu/",
+    "href": "/"
+  },
+  {
+    "label": "Welcome from the Chair",
+    "url": "https://ww3.math.ucla.edu/about/welcome-from-the-chair/",
+    "href": "/content/welcome-from-the-chair/"
+  },
+  {
+    "label": "Department Overview",
+    "url": "https://ww3.math.ucla.edu/about/",
+    "href": "/content/about/"
+  },
+  {
+    "label": "Statement on Collegiality",
+    "url": "https://ww3.math.ucla.edu/statement-on-collegiality/",
+    "href": "/content/statement-on-collegiality/"
+  },
+  {
+    "label": "Computing Resources",
+    "url": "https://ww3.math.ucla.edu/ucla-mathematics-computing/",
+    "href": "/content/ucla-mathematics-computing/"
+  },
+  {
+    "label": "Department Internal Resources",
+    "url": "https://www.math.ucla.edu/internal",
+    "href": "https://www.math.ucla.edu/internal"
+  },
+  {
+    "label": "Faculty",
+    "url": "https://www.math.ucla.edu/people/ladder",
+    "href": "/content/person-ladder/"
+  },
+  {
+    "label": "Visiting Faculty",
+    "url": "https://www.math.ucla.edu/people/visiting",
+    "href": "/content/directory-visiting/"
+  },
+  {
+    "label": "Curtis Center",
+    "url": "https://ww3.math.ucla.edu/curtis-center/",
+    "href": "/content/curtis-center/"
+  },
+  {
+    "label": "UCLA Math AI Center",
+    "url": "https://ww3.math.ucla.edu/ucla-math-ai-center/",
+    "href": "/content/ucla-math-ai-center/"
+  },
+  {
+    "label": "Graduate Students",
+    "url": "https://www.math.ucla.edu/people/grad",
+    "href": "/content/directory-grad/"
+  },
+  {
+    "label": "Staff",
+    "url": "https://www.math.ucla.edu/people/staff",
+    "href": "/content/directory-staff/"
+  },
+  {
+    "label": "Tutors",
+    "url": "https://ww3.math.ucla.edu/tutoring/",
+    "href": "/content/tutoring/"
+  },
+  {
+    "label": "All",
+    "url": "https://www.math.ucla.edu/people",
+    "href": "/content/directory-people/"
+  },
+  {
+    "label": "Research Areas",
+    "url": "https://ww3.math.ucla.edu/research-areas/",
+    "href": "/content/research-areas/"
+  },
+  {
+    "label": "Faculty Honors & Awards",
+    "url": "https://ww3.math.ucla.edu/faculty-honors-awards/",
+    "href": "/content/faculty-honors-awards/"
+  },
+  {
+    "label": "Department Awards",
+    "url": "https://ww3.math.ucla.edu/departmental-awards/",
+    "href": "/content/departmental-awards/"
+  },
+  {
+    "label": "Workforce Programs",
+    "url": "https://ww3.math.ucla.edu/workforce-programs/",
+    "href": "/content/workforce-programs/"
+  },
+  {
+    "label": "2021-Current",
+    "url": "https://ww3.math.ucla.edu/cam-reports-2021-current/",
+    "href": "/content/cam-reports-2021-current/"
+  },
+  {
+    "label": "2001-2020",
+    "url": "https://ww3.math.ucla.edu/cam-reports-2001-2020/",
+    "href": "/content/cam-reports-2001-2020/"
+  },
+  {
+    "label": "1986-2000",
+    "url": "https://ww3.math.ucla.edu/cam-reports-1986-2000/",
+    "href": "/content/cam-reports-1986-2000/"
+  },
+  {
+    "label": "Open Faculty Positions",
+    "url": "https://ww3.math.ucla.edu/faculty-positions/",
+    "href": "https://ww3.math.ucla.edu/faculty-positions/"
+  },
+  {
+    "label": "Undergraduate Academic Advising",
+    "url": "https://ww3.math.ucla.edu/academic-advising/",
+    "href": "/content/academic-advising/"
+  },
+  {
+    "label": "Majors, Minors & Specializations",
+    "url": "https://ww3.math.ucla.edu/majors-minors-specializations/",
+    "href": "/content/majors-minors-specializations/"
+  },
+  {
+    "label": "Math/PIC Enrollment Updates",
+    "url": "https://ww3.math.ucla.edu/enrollment-into-math-and-programming-in-computing-pic-courses/",
+    "href": "/content/enrollment-into-math-and-programming-in-computing-pic-courses/"
+  },
+  {
+    "label": "Undergraduate Courses",
+    "url": "https://ww3.math.ucla.edu/courses/",
+    "href": "/content/courses/"
+  },
+  {
+    "label": "Math Placement Test",
+    "url": "https://ww3.math.ucla.edu/take-the-placement-test/",
+    "href": "/content/take-the-placement-test/"
+  },
+  {
+    "label": "Petitions",
+    "url": "https://ww3.math.ucla.edu/petitions/",
+    "href": "/content/petitions/"
+  },
+  {
+    "label": "Opportunities & Announcements",
+    "url": "https://ww3.math.ucla.edu/opportunities/",
+    "href": "/content/opportunities/"
+  },
+  {
+    "label": "Graduate Program Overview",
+    "url": "https://ww3.math.ucla.edu/overview-2/",
+    "href": "/content/overview-2/"
+  },
+  {
+    "label": "Admissions",
+    "url": "https://ww3.math.ucla.edu/admissions/",
+    "href": "/content/admissions/"
+  },
+  {
+    "label": "Graduate Courses",
+    "url": "https://ww3.math.ucla.edu/courses-2/",
+    "href": "/content/courses-2/"
+  },
+  {
+    "label": "Graduate Handbook",
+    "url": "https://ww3.math.ucla.edu/graduate-handbook/",
+    "href": "/content/graduate-handbook/"
+  },
+  {
+    "label": "Summer Session",
+    "url": "https://ww3.math.ucla.edu/summer/",
+    "href": "/content/summer/"
+  },
+  {
+    "label": "Commencement",
+    "url": "https://ww3.math.ucla.edu/undergraduate-and-graduate-departmental-commencement/",
+    "href": "/content/undergraduate-and-graduate-departmental-commencement/"
+  },
+  {
+    "label": "Student Groups",
+    "url": "https://ww3.math.ucla.edu/student-groups/",
+    "href": "/content/student-groups/"
+  },
+  {
+    "label": "Overview",
+    "url": "https://ww3.math.ucla.edu/about/diversity-inclusion/",
+    "href": "/content/diversity-inclusion/"
+  },
+  {
+    "label": "The David Harold Blackwell Summer Research Institute",
+    "url": "https://ww3.math.ucla.edu/david-harold-blackwell-summer-research-institute/",
+    "href": "/content/david-harold-blackwell-summer-research-institute/"
+  },
+  {
+    "label": "Inclusive Excellence Event Series",
+    "url": "https://ww3.math.ucla.edu/inclusive-exclusive-events/",
+    "href": "/content/inclusive-exclusive-events/"
+  },
+  {
+    "label": "About",
+    "url": "https://ww3.math.ucla.edu/women-in-math/",
+    "href": "/content/women-in-math/"
+  },
+  {
+    "label": "Distinguished Women in Math Lecture Series",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Distinguished%20Women%20in%20Math%20Lecture%20Series",
+    "href": "/content/seminar-distinguished-women-in-math-lecture-series/"
+  },
+  {
+    "label": "Feedback Form",
+    "url": "https://ww3.math.ucla.edu/feedback/",
+    "href": "/content/feedback/"
+  },
+  {
+    "label": "News",
+    "url": "https://ww3.math.ucla.edu/news-events/news-2/",
+    "href": "/content/news-2/"
+  },
+  {
+    "label": "Department Magazine",
+    "url": "https://ww3.math.ucla.edu/news-events/dept-magazine/",
+    "href": "/content/dept-magazine/"
+  },
+  {
+    "label": "Careers in Math Alumni Panel",
+    "url": "https://ww3.math.ucla.edu/careersinmathevent/",
+    "href": "/content/careersinmathevent/"
+  },
+  {
+    "label": "Applied Math Colloquium",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Applied%20Colloquium",
+    "href": "/content/seminar-applied-colloquium/"
+  },
+  {
+    "label": "Logic Colloquium",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Logic%20Colloquium",
+    "href": "/content/seminar-logic-colloquium/"
+  },
+  {
+    "label": "Thursday Colloquium",
+    "url": "https://ww3.math.ucla.edu/thursday-colloquium/",
+    "href": "/content/thursday-colloquium/"
+  },
+  {
+    "label": "Undergraduate Colloquium",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Undergraduate%20Colloquium",
+    "href": "/content/seminar-undergraduate-colloquium/"
+  },
+  {
+    "label": "Distinguished Lecture Series",
+    "url": "https://ww3.math.ucla.edu/news-events/distinguished-lecture-series/",
+    "href": "/content/distinguished-lecture-series/"
+  },
+  {
+    "label": "AI in Research and Education Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?t=1790789006&type=AI%20in%20Research%20and%20Education",
+    "href": "/content/seminar-ai-in-research-and-education/"
+  },
+  {
+    "label": "Algebra Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Algebra",
+    "href": "/content/seminar-algebra/"
+  },
+  {
+    "label": "Algebraic Topology Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?&type=Algebraic%20Topology",
+    "href": "/content/seminar-algebraic-topology/"
+  },
+  {
+    "label": "Analysis and PDE Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?&type=Analysis%20and%20PDE",
+    "href": "/content/seminar-analysis-and-pde/"
+  },
+  {
+    "label": "Combinatorics Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?&type=Combinatorics",
+    "href": "/content/seminar-combinatorics/"
+  },
+  {
+    "label": "Data Theory Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Data%20Theory",
+    "href": "/content/seminar-data-theory/"
+  },
+  {
+    "label": "Functional Analysis Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?&type=Functional%20Analysis",
+    "href": "/content/seminar-functional-analysis/"
+  },
+  {
+    "label": "GSO Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=GSO",
+    "href": "/content/seminar-gso/"
+  },
+  {
+    "label": "Geometry Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Geometry",
+    "href": "/content/seminar-geometry/"
+  },
+  {
+    "label": "Joint Topology Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Joint%20Topology",
+    "href": "/content/seminar-joint-topology/"
+  },
+  {
+    "label": "The Level Set Collective",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=The%20Level%20Set%20Collective",
+    "href": "/content/seminar-the-level-set-collective/"
+  },
+  {
+    "label": "Logic Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Logic",
+    "href": "/content/seminar-logic/"
+  },
+  {
+    "label": "Math Machine Learning Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Math%20Machine%20Learning",
+    "href": "/content/seminar-math-machine-learning/"
+  },
+  {
+    "label": "Mathematical and Statistical Finance Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Mathematical%20and%20Statistical%20Finance",
+    "href": "/content/seminar-mathematical-and-statistical-finance/"
+  },
+  {
+    "label": "Number Theory Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Number%20Theory",
+    "href": "/content/seminar-number-theory/"
+  },
+  {
+    "label": "Probability Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Probability",
+    "href": "/content/seminar-probability/"
+  },
+  {
+    "label": "Topology Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Topology",
+    "href": "/content/seminar-topology/"
+  },
+  {
+    "label": "SCALE Seminar Series",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=SCALE",
+    "href": "/content/seminar-scale/"
+  },
+  {
+    "label": "Participating Algebraic Topology Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Algebraic%20Topology",
+    "href": "/content/seminar-participating-algebraic-topology/"
+  },
+  {
+    "label": "Participating Analysis Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Analysis",
+    "href": "/content/seminar-participating-analysis/"
+  },
+  {
+    "label": "Participating Computer-Assisted Proofs Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Computer-Assisted%20Proofs",
+    "href": "/content/seminar-participating-computer-assisted-proofs/"
+  },
+  {
+    "label": "Participating Funct. Analysis Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Funct.%20Analysis",
+    "href": "/content/seminar-participating-funct-analysis/"
+  },
+  {
+    "label": "Participating Number Theory Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Number%20Theory",
+    "href": "/content/seminar-participating-number-theory/"
+  },
+  {
+    "label": "Participating PDE Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20PDE",
+    "href": "/content/seminar-participating-pde/"
+  },
+  {
+    "label": "Participating Probability Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Probability",
+    "href": "/content/seminar-participating-probability/"
+  },
+  {
+    "label": "Participating Topology Seminar",
+    "url": "https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Topology",
+    "href": "/content/seminar-participating-topology/"
+  },
+  {
+    "label": "Weekly Events Calendar",
+    "url": "https://secure.math.ucla.edu/seminars/weekly_list.php",
+    "href": "/content/seminar-weekly/"
+  },
+  {
+    "label": "Alumni",
+    "url": "https://ww3.math.ucla.edu/alumni-donors/",
+    "href": "/content/alumni-donors/"
+  },
+  {
+    "label": "Giving",
+    "url": "https://ww3.math.ucla.edu/giving/",
+    "href": "/content/giving/"
+  },
+  {
+    "label": "Contact",
+    "url": "https://ww3.math.ucla.edu/contact/",
+    "href": "/content/contact/"
+  },
+  {
+    "label": "Search",
+    "url": "https://ww3.math.ucla.edu/?s=",
+    "href": "https://ww3.math.ucla.edu/?s="
+  },
+  {
+    "label": "Department Magazine",
+    "url": "https://ww3.math.ucla.edu/?page_id=533",
+    "href": "/content/dept-magazine/"
+  },
+  {
+    "label": "Buy a Math T-shirt or Sweatshirt!",
+    "url": "https://ww3.math.ucla.edu/merchandise-order-form/",
+    "href": "/content/merchandise-order-form/"
+  },
+  {
+    "label": "Support UCLA Math",
+    "url": "https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=118",
+    "href": "https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=118"
+  },
+  {
+    "label": "COVID-19 Updates",
+    "url": "https://covid-19.ucla.edu/?utm_campaign=COVID-19&utm_source=newsroom.ucla.edu&utm_medium=affiliate",
+    "href": "https://covid-19.ucla.edu/?utm_campaign=COVID-19&utm_source=newsroom.ucla.edu&utm_medium=affiliate"
+  },
+  {
+    "label": "Program in Computing (PIC) Lab",
+    "url": "https://www.pic.ucla.edu/",
+    "href": "https://www.pic.ucla.edu/"
+  },
+  {
+    "label": "Mathematics Reading Room",
+    "url": "https://ww3.math.ucla.edu/?page_id=2677",
+    "href": "/content/mathematics-reading-room/"
+  },
+  {
+    "label": "Undergraduate Student Math Center",
+    "url": "https://ww3.math.ucla.edu/my-calendar/",
+    "href": "https://ww3.math.ucla.edu/my-calendar/"
+  },
+  {
+    "label": "Graduate Handbook",
+    "url": "https://ww3.math.ucla.edu/?page_id=527",
+    "href": "/content/graduate-handbook/"
+  },
+  {
+    "label": "UCLA Registrar's Schedule of Classes",
+    "url": "https://sa.ucla.edu/ro/Public/SOC/Results?t=20S&sBy=subject&sName=Mathematics+%28MATH%29&subj=MATH&crsCatlg=Enter+a+Catalog+Number+or+Class+Title+%28Optional%29&catlg=&cls_no=&btnIsInIndex=btn_inIndex",
+    "href": "https://sa.ucla.edu/ro/Public/SOC/Results?t=20S&sBy=subject&sName=Mathematics+%28MATH%29&subj=MATH&crsCatlg=Enter+a+Catalog+Number+or+Class+Title+%28Optional%29&catlg=&cls_no=&btnIsInIndex=btn_inIndex"
+  },
+  {
+    "label": "Math Webmail Access",
+    "url": "https://webmail.math.ucla.edu/",
+    "href": "https://webmail.math.ucla.edu/"
+  },
+  {
+    "label": "Math (BUGS) Computing Group",
+    "url": "https://ww3.math.ucla.edu/?page_id=2704",
+    "href": "/content/ucla-mathematics-computing/"
+  },
+  {
+    "label": "Distinguished Lecture Series",
+    "url": "https://ww3.math.ucla.edu/?page_id=535",
+    "href": "/content/distinguished-lecture-series/"
+  },
+  {
+    "label": "Open Faculty Positions",
+    "url": "https://ww3.math.ucla.edu/?page_id=2656",
+    "href": "/content/faculty-positions-2026-27/"
+  },
+  {
+    "label": "Patty Morrison’s Planned $5 Million Gift to UCLA Mathematics",
+    "url": "https://ww3.math.ucla.edu/patty-morrisons-planned-5-million-gift-to-ucla-mathematics/",
+    "href": "/content/patty-morrisons-planned-5-million-gift-to-ucla-mathematics/"
+  },
+  {
+    "label": "Former UCLA Professor Hong Wang makes history with 2026 Fields Medal",
+    "url": "https://ww3.math.ucla.edu/former-ucla-professor-hong-wang-makes-history-with-2026-fields-medal/",
+    "href": "/content/former-ucla-professor-hong-wang-makes-history-with-2026-fields-medal/"
+  },
+  {
+    "label": "Learn More",
+    "url": "https://www.math.ucla.edu/~deanna/RTGworkshop.html",
+    "href": "https://www.math.ucla.edu/~deanna/RTGworkshop.html"
+  },
+  {
+    "label": "Read Full Statement Here",
+    "url": "https://ww3.math.ucla.edu/policy-on-grading/",
+    "href": "/content/policy-on-grading/"
+  },
+  {
+    "label": "Read Ariana's Profile",
+    "url": "https://ww3.math.ucla.edu/graduate-student-spotlight-ariana-chin/",
+    "href": "/content/graduate-student-spotlight-ariana-chin/"
+  },
+  {
+    "label": "Support Graduate Student Education The funding for graduate education has become increasingly threatened, and the math department at UCLA faces many challenges in this regard. Graduate students are not only trained here; they are also often integral to the research itself. In applied mathematics, graduate students frequently work hand in hand with faculty on impactful projects. In pure mathematics, the mentorship model—faculty guiding students through their research—is a crucial, irreplaceable learning experience. Your philanthropic support is needed at this crucial time. Donate Now",
+    "url": "https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=5734",
+    "href": "https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=5734"
+  },
+  {
+    "label": "UCLA Transportation & Parking",
+    "url": "https://main.transportation.ucla.edu/",
+    "href": "https://main.transportation.ucla.edu/"
+  },
+  {
+    "label": "interactive campus map",
+    "url": "https://map.ucla.edu/?z=15&cpnt=-118.442748,34.069525",
+    "href": "https://map.ucla.edu/?z=15&cpnt=-118.442748,34.069525"
+  },
+  {
+    "label": "More information about visiting UCLA Campus",
+    "url": "https://www.ucla.edu/visit",
+    "href": "https://www.ucla.edu/visit"
+  },
+  {
+    "label": "Submit Feedback",
+    "url": "https://forms.gle/mX76FS8tnqinwjs28",
+    "href": "https://forms.gle/mX76FS8tnqinwjs28"
+  },
+  {
+    "label": "Emergency",
+    "url": "https://bso.ucla.edu/",
+    "href": "https://bso.ucla.edu/"
+  },
+  {
+    "label": "Accessibility",
+    "url": "https://www.ucla.edu/accessibility",
+    "href": "https://www.ucla.edu/accessibility"
+  },
+  {
+    "label": "Report Misconduct",
+    "url": "https://ucla-ocr.caseiq.app/portal/reportonline",
+    "href": "https://ucla-ocr.caseiq.app/portal/reportonline"
+  },
+  {
+    "label": "Privacy & Terms of Use",
+    "url": "https://www.ucla.edu/terms-of-use",
+    "href": "https://www.ucla.edu/terms-of-use"
+  },
+  {
+    "label": "Scroll to top",
+    "url": "https://ww3.math.ucla.edu/#top",
+    "href": "https://ww3.math.ucla.edu/#top"
+  }
+]
