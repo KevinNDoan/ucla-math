@@ -3,7 +3,7 @@
 import { createContext, useCallback, useContext, useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import Fuse from 'fuse.js';
-import { ArrowRight, ArrowUpRight, BookOpen, LoaderCircle, Search, X } from 'lucide-react';
+import { ArrowRight, ArrowUpRight, LoaderCircle, Search, X } from 'lucide-react';
 import { usePathname } from 'next/navigation';
 
 export type SearchEntry = { id: string | number; slug: string; title: string; category: string; type: string; description: string; text: string; source: string; href?: string };
@@ -62,7 +62,7 @@ function excerpt(entry: SearchEntry, query: string) {
 
 export function SearchResult({ entry, query, onSelect }: { entry: SearchEntry; query: string; onSelect?: () => void }) {
   return <Link href={entry.href || `/content/${entry.slug}/`} className="search-result group" onClick={onSelect}>
-    <div className="result-icon"><BookOpen size={18}/></div><div className="min-w-0 flex-1"><span className="result-category">{entry.category}</span><h3><Highlight text={entry.title} query={query}/></h3><p><Highlight text={excerpt(entry, query)} query={query}/></p></div><ArrowUpRight className="result-arrow" size={18}/>
+    <div className="min-w-0 flex-1"><span className="result-category">{entry.category}</span><h3><Highlight text={entry.title} query={query}/></h3><p><Highlight text={excerpt(entry, query)} query={query}/></p></div>
   </Link>;
 }
 

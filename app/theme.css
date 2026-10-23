@@ -140,7 +140,7 @@ em { font-style: normal; }
 .site-footer .department-logo { width: 270px; }
 .footer-address > p { font-size: 17px; color: #ddd; margin-top: 15px; }
 .footer-address address { font-size: 14px; line-height: 1.8; color: #ddd; margin-block: 22px 15px; }
-.footer-main h3 { font-size: 15px; font-weight: 500; color: white; text-transform: uppercase; letter-spacing: .7px; margin-block: 6px 21px; }
+.footer-main h3 { font-size: 15px; font-weight: 500; color: white; text-transform: none; letter-spacing: .7px; margin-block: 6px 21px; }
 .footer-main > div > a:not(.brand) { font-size: 14px; color: #ddd; margin-top: 11px; }
 .footer-main > div > a:hover { color: var(--gold); }
 .footer-map { color: white !important; }

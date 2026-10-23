@@ -1,6 +1,7 @@
 import { load } from 'cheerio';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { normalizeCollection } from './normalize-content.mjs';
 
 const root = process.cwd();
 const origin = 'https://ww3.math.ucla.edu';
@@ -147,7 +148,7 @@ function category(entry) {
   return 'About';
 }
 
-const content = entries.map(entry => {
+const content = normalizeCollection(entries.map(entry => {
   const $ = load(entry.content?.rendered || '');
   $('object,embed').each((_, node) => {
     const resource = $(node).attr('data') || $(node).attr('src');
@@ -195,7 +196,7 @@ const content = entries.map(entry => {
   const links = [];
   $('a[href]').each((_, node) => { const label = $(node).text().trim(); if (label) links.push({ label, href: $(node).attr('href') }); });
   return { id: entry.id, slug: entry.slug, title, category: category(entry), type: entry.type, source: entry.link, date: entry.date, modified: entry.modified, description: decode(entry.excerpt?.rendered) || text.slice(0, 230), html: $('body').html() || '', text, headings, links, image: $('img').first().attr('src') || null };
-}).filter(entry => entry.title && (entry.text || entry.html));
+}).filter(entry => entry.title && (entry.text || entry.html)));
 
 const people = [];
 for (const entry of content.filter(entry => entry.type === 'directory' && entry.slug !== 'directory-people')) {

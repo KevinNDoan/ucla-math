@@ -23,7 +23,7 @@ export const readContent = <T,>(name: string): T => JSON.parse(fs.readFileSync(p
 export const pages = readContent<ContentPage[]>('pages');
 export const importReport = readContent<{ importedAt: string; total: number; profiles: number; wordpressPages: number; newsArticles: number; directories: number; seminars: number; failures: { url: string; error: string }[] }>('import-report');
 export const snapshotDate = new Date(importReport.importedAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' });
-const importedWeek = pages.find(page => page.slug === 'seminar-weekly')?.text.match(/EVENTS FOR THE WEEK OF ([A-Z]+ \d+, \d+)/)?.[1];
+const importedWeek = pages.find(page => page.slug === 'seminar-weekly')?.text.match(/EVENTS FOR THE WEEK OF ([A-Z]+ \d+, \d+)/i)?.[1];
 export const eventWeek = importedWeek ? importedWeek.charAt(0) + importedWeek.slice(1).toLowerCase() : snapshotDate;
 export const pageBySlug = (slug: string) => pages.find(page => page.slug === slug);
 export const hrefFor = (slug: string) => `/content/${slug}/`;
