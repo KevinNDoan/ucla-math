@@ -36,6 +36,10 @@ npm run validate:content
 
 The importer preserves article text, tables, links, lecture abstracts, and contact details, expands source content, removes scripts and original presentation, and rebuilds the full-text search index. Rendered lecture templates and directory profiles are fetched separately because their details are absent from the WordPress body. Original source links remain available on every reading page.
 
+## UCLA visual assets
+
+The visual styling follows the UCLA Alumni website: a dark masthead, UCLA Gold announcement bar, full-width photography, UCLA Blue section panels, and the original Antique Legacy font files. Header and footer branding use UCLA’s original Mathematics department signature images. The favicon and campus, community, and research photographs are original UCLA assets. Source URLs are recorded in `public/brand/ASSET-SOURCES.md`.
+
 ## Search and navigation
 
 - Sitewide full-text search with fuzzy matching, weighted title ranking, matching excerpts, highlighted terms, and category filters.

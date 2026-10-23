@@ -4,11 +4,12 @@ import { Footer } from '@/components/footer';
 import { SearchProvider } from '@/components/search';
 import { navGroups } from '@/lib/content';
 import './globals.css';
+import './alumni.css';
 
 export const metadata: Metadata = {
   title: { default: 'UCLA Mathematics — Infinite possibilities.', template: '%s | UCLA Mathematics' },
   description: 'Explore UCLA Mathematics. Find undergraduate and graduate programs, world-class research, our people, department news, and upcoming seminars in one clear, searchable place.',
-  icons: { icon: '/favicon.svg' },
+  icons: { icon: '/brand/ucla-favicon.png', apple: '/brand/ucla-favicon.png' },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
